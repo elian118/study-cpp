@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_SortFunctor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5311A559-E72D-49F2-9F73-193A464FCF47}|ex_11_SortFunctor\\ex_11_SortFunctor.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_SortFunctor\\ex_11_SortFunctor\\SortFunctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5311A559-E72D-49F2-9F73-193A464FCF47}|ex_11_SortFunctor\\ex_11_SortFunctor.vcxproj|solutionrelative:ex_11_SortFunctor\\SortFunctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortFunctor.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_SortFunctor\\ex_11_SortFunctor\\SortFunctor.cpp",
+              "RelativeDocumentMoniker": "ex_11_SortFunctor\\SortFunctor.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_SortFunctor\\ex_11_SortFunctor\\SortFunctor.cpp",
+              "RelativeToolTip": "ex_11_SortFunctor\\SortFunctor.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T03:24:43.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

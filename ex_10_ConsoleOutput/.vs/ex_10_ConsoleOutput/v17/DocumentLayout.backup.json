@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_10_ConsoleOutput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A969E73-5550-4435-A07D-104D59B221E5}|ex_10_ConsoleOutput\\ex_10_ConsoleOutput.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_10_ConsoleOutput\\ex_10_ConsoleOutput\\ConsoleOutput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A969E73-5550-4435-A07D-104D59B221E5}|ex_10_ConsoleOutput\\ex_10_ConsoleOutput.vcxproj|solutionrelative:ex_10_ConsoleOutput\\ConsoleOutput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleOutput.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_10_ConsoleOutput\\ex_10_ConsoleOutput\\ConsoleOutput.cpp",
+              "RelativeDocumentMoniker": "ex_10_ConsoleOutput\\ConsoleOutput.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_10_ConsoleOutput\\ex_10_ConsoleOutput\\ConsoleOutput.cpp",
+              "RelativeToolTip": "ex_10_ConsoleOutput\\ConsoleOutput.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T07:42:56.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

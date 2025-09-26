@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_StablePointPtrArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E5A4FD-E361-489E-BF1D-130803CC6361}|ex_11_StablePointPtrArray\\ex_11_StablePointPtrArray.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_StablePointPtrArray\\ex_11_StablePointPtrArray\\StablePointPtrArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34E5A4FD-E361-489E-BF1D-130803CC6361}|ex_11_StablePointPtrArray\\ex_11_StablePointPtrArray.vcxproj|solutionrelative:ex_11_StablePointPtrArray\\StablePointPtrArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StablePointPtrArray.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_StablePointPtrArray\\ex_11_StablePointPtrArray\\StablePointPtrArray.cpp",
+              "RelativeDocumentMoniker": "ex_11_StablePointPtrArray\\StablePointPtrArray.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_StablePointPtrArray\\ex_11_StablePointPtrArray\\StablePointPtrArray.cpp",
+              "RelativeToolTip": "ex_11_StablePointPtrArray\\StablePointPtrArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T02:55:15.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

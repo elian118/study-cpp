@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|solutionrelative:ex_4_Point\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|solutionrelative:ex_4_Point\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|solutionrelative:ex_4_Point\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|solutionrelative:ex_4_Point\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\RectangleConstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11412E68-B5BC-4662-86BC-8340460BC924}|ex_4_Point\\ex_4_Point.vcxproj|solutionrelative:ex_4_Point\\RectangleConstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RectangleConstructor.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\RectangleConstructor.cpp",
+              "RelativeDocumentMoniker": "ex_4_Point\\RectangleConstructor.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\RectangleConstructor.cpp",
+              "RelativeToolTip": "ex_4_Point\\RectangleConstructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T07:24:52.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "ex_4_Point\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Rectangle.cpp",
+              "RelativeToolTip": "ex_4_Point\\Rectangle.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T07:24:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Rectangle.h",
+              "RelativeDocumentMoniker": "ex_4_Point\\Rectangle.h",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Rectangle.h",
+              "RelativeToolTip": "ex_4_Point\\Rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-23T07:23:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Point.cpp",
+              "RelativeDocumentMoniker": "ex_4_Point\\Point.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Point.cpp",
+              "RelativeToolTip": "ex_4_Point\\Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T07:23:38.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Point.h",
+              "RelativeDocumentMoniker": "ex_4_Point\\Point.h",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_4_Point\\ex_4_Point\\Point.h",
+              "RelativeToolTip": "ex_4_Point\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-23T07:23:31.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

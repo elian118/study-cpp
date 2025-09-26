@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_9_PostOpndOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6B9D30-25AA-45DA-A261-54C7A6AE72A4}|ex_9_PostOpndOverloading\\ex_9_PostOpndOverloading.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_9_PostOpndOverloading\\ex_9_PostOpndOverloading\\PostOpndOverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB6B9D30-25AA-45DA-A261-54C7A6AE72A4}|ex_9_PostOpndOverloading\\ex_9_PostOpndOverloading.vcxproj|solutionrelative:ex_9_PostOpndOverloading\\PostOpndOverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostOpndOverloading.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_9_PostOpndOverloading\\ex_9_PostOpndOverloading\\PostOpndOverloading.cpp",
+              "RelativeDocumentMoniker": "ex_9_PostOpndOverloading\\PostOpndOverloading.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_9_PostOpndOverloading\\ex_9_PostOpndOverloading\\PostOpndOverloading.cpp",
+              "RelativeToolTip": "ex_9_PostOpndOverloading\\PostOpndOverloading.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T07:08:57.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

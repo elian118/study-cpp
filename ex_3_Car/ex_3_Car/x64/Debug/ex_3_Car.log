@@ -1,0 +1,5 @@
+﻿  Car.cpp
+C:\Users\USER\Desktop\hancom\c++\ex_3_Car\ex_3_Car\Car.cpp(7,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RacingMain.cpp
+  코드를 생성하고 있습니다...
+  ex_3_Car.vcxproj -> C:\Users\USER\Desktop\hancom\c++\ex_3_Car\x64\Debug\ex_3_Car.exe

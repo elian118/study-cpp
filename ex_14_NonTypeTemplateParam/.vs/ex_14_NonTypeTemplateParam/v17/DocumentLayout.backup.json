@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_NonTypeTemplateParam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D296F1F1-6765-4CCE-BD46-9BEAEA8D5102}|ex_14_NonTypeTemplateParam\\ex_14_NonTypeTemplateParam.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_NonTypeTemplateParam\\ex_14_NonTypeTemplateParam\\NonTypeTemplateParam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D296F1F1-6765-4CCE-BD46-9BEAEA8D5102}|ex_14_NonTypeTemplateParam\\ex_14_NonTypeTemplateParam.vcxproj|solutionrelative:ex_14_NonTypeTemplateParam\\NonTypeTemplateParam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NonTypeTemplateParam.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_NonTypeTemplateParam\\ex_14_NonTypeTemplateParam\\NonTypeTemplateParam.cpp",
+              "RelativeDocumentMoniker": "ex_14_NonTypeTemplateParam\\NonTypeTemplateParam.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_NonTypeTemplateParam\\ex_14_NonTypeTemplateParam\\NonTypeTemplateParam.cpp",
+              "RelativeToolTip": "ex_14_NonTypeTemplateParam\\NonTypeTemplateParam.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T06:22:22.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_NewDelete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FDBBE4-6E56-434C-B3F7-F00797175C52}|ex_2_NewDelete\\ex_2_NewDelete.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_NewDelete\\ex_2_NewDelete\\NewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7FDBBE4-6E56-434C-B3F7-F00797175C52}|ex_2_NewDelete\\ex_2_NewDelete.vcxproj|solutionrelative:ex_2_NewDelete\\NewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewDelete.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_NewDelete\\ex_2_NewDelete\\NewDelete.cpp",
+              "RelativeDocumentMoniker": "ex_2_NewDelete\\NewDelete.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_NewDelete\\ex_2_NewDelete\\NewDelete.cpp",
+              "RelativeToolTip": "ex_2_NewDelete\\NewDelete.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T06:20:31.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

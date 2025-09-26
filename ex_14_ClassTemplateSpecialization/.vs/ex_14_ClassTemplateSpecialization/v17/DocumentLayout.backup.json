@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_ClassTemplateSpecialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E584FA-756B-4734-8E64-3252036C57C1}|ex_14_ClassTemplateSpecialization\\ex_14_ClassTemplateSpecialization.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_ClassTemplateSpecialization\\ex_14_ClassTemplateSpecialization\\ClassTemplateSpecialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E584FA-756B-4734-8E64-3252036C57C1}|ex_14_ClassTemplateSpecialization\\ex_14_ClassTemplateSpecialization.vcxproj|solutionrelative:ex_14_ClassTemplateSpecialization\\ClassTemplateSpecialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassTemplateSpecialization.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_ClassTemplateSpecialization\\ex_14_ClassTemplateSpecialization\\ClassTemplateSpecialization.cpp",
+              "RelativeDocumentMoniker": "ex_14_ClassTemplateSpecialization\\ClassTemplateSpecialization.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_14_ClassTemplateSpecialization\\ex_14_ClassTemplateSpecialization\\ClassTemplateSpecialization.cpp",
+              "RelativeToolTip": "ex_14_ClassTemplateSpecialization\\ClassTemplateSpecialization.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T06:06:05.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  RefReturnOne.cpp
+C:\Users\USER\Desktop\hancom\c++\ex_2_RefReturnOne\ex_2_RefReturnOne\RefReturnOne.cpp(5,2): error C3892: 'ref': const인 변수에 할당할 수 없습니다.
+C:\Users\USER\Desktop\hancom\c++\ex_2_RefReturnOne\ex_2_RefReturnOne\RefReturnOne.cpp(6,9): error C2440: 'return': 'const int'에서 'int &'(으)로 변환할 수 없습니다.
+      C:\Users\USER\Desktop\hancom\c++\ex_2_RefReturnOne\ex_2_RefReturnOne\RefReturnOne.cpp(6,9):
+      변환하면서 한정자가 손실됩니다.
+  

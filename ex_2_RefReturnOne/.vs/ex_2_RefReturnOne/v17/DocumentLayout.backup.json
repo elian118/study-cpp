@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_RefReturnOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A037324B-CA81-4DC0-B9FD-98BC6C3317E6}|ex_2_RefReturnOne\\ex_2_RefReturnOne.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_RefReturnOne\\ex_2_RefReturnOne\\RefReturnOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A037324B-CA81-4DC0-B9FD-98BC6C3317E6}|ex_2_RefReturnOne\\ex_2_RefReturnOne.vcxproj|solutionrelative:ex_2_RefReturnOne\\RefReturnOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefReturnOne.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_RefReturnOne\\ex_2_RefReturnOne\\RefReturnOne.cpp",
+              "RelativeDocumentMoniker": "ex_2_RefReturnOne\\RefReturnOne.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_2_RefReturnOne\\ex_2_RefReturnOne\\RefReturnOne.cpp",
+              "RelativeToolTip": "ex_2_RefReturnOne\\RefReturnOne.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T05:48:06.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

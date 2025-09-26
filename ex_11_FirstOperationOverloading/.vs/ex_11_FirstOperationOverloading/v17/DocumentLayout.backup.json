@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_FirstOperationOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1937D6-7660-4A77-B1AD-DCF3B25F4643}|ex_11_FirstOperationOverloading\\ex_11_FirstOperationOverloading.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_FirstOperationOverloading\\ex_11_FirstOperationOverloading\\FirstOperationOverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F1937D6-7660-4A77-B1AD-DCF3B25F4643}|ex_11_FirstOperationOverloading\\ex_11_FirstOperationOverloading.vcxproj|solutionrelative:ex_11_FirstOperationOverloading\\FirstOperationOverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstOperationOverloading.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_FirstOperationOverloading\\ex_11_FirstOperationOverloading\\FirstOperationOverloading.cpp",
+              "RelativeDocumentMoniker": "ex_11_FirstOperationOverloading\\FirstOperationOverloading.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\c\u002B\u002B\\ex_11_FirstOperationOverloading\\ex_11_FirstOperationOverloading\\FirstOperationOverloading.cpp",
+              "RelativeToolTip": "ex_11_FirstOperationOverloading\\FirstOperationOverloading.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T01:27:14.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
